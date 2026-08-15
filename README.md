@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @Samsn89
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++ and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Samuel Frank
 
-<!---
-Samsn89/Samsn89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**IT Systems Engineering Apprentice · Homelab Architect · Builder**
+
+---
+
+## About
+
+IT Systems Engineering apprentice at Hödlmayr, a vehicle logistics company, currently in daily helpdesk and infrastructure work. Outside of that, I run a self-hosted infrastructure at home that I treat as an ongoing engineering project rather than a hobby that stays finished.
+
+## Infrastructure
+
+A Proxmox-based homelab running:
+
+```
+├── Home Assistant        smart home, solar inverter integration (Deye)
+├── Pi-hole v6             network-wide DNS filtering, custom blocklists
+├── Nextcloud + Immich     self-hosted storage & photo management
+└── Tailscale              remote access via subnet routing
+```
+
+## Focus Areas
+
+- **Networking & infrastructure** — subnetting, self-hosted services, remote access
+- **Embedded systems** — Arduino, sensor integration, hardware-software interfacing
+- **Automation & scripting** — Python, workflow automation
+- **Machine learning** — studying model architecture and transformers, working toward building my own
+
+## Where I'm Headed
+
+AI is what pulls me in the most right now. I'm working through the fundamentals of how models actually work, not just how to use them, with the long-term goal of building my own. It's the direction I want my career to move toward.
+
+## Currently Learning
+
+CS50's Introduction to Programming with Python, and going deeper into networking fundamentals as part of my formal training. Planning to do more certificates.
+
+---
+
+*Building infrastructure, one container at a time.*
