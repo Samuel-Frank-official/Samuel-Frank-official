@@ -16,8 +16,20 @@ A Proxmox-based homelab running:
 ├── Home Assistant        smart home, solar inverter integration (Deye)
 ├── Pi-hole v6             network-wide DNS filtering, custom blocklists
 ├── Nextcloud + Immich     self-hosted storage & photo management
+├── Portainer              container management, GitOps
+├── n8n                    workflow automation
+├── Uptime Kuma            uptime monitoring
 └── Tailscale              remote access via subnet routing
 ```
+
+## Projects
+
+- **Ephemeris** – self-hosted space dashboard: launches, ISS, space weather, rovers (Node, zero deps)
+- **Essens-Hub / Gesundheits-Hub** – local-only homelab apps (Docker, SQLite, Portainer GitOps)
+- **Lernzettel-Portal** – form + n8n workflow that generates study sheets as PDF
+- **Solar tracker** – single-axis tracker on Arduino Mega 2560 with MQTT → Home Assistant
+
+*(most repos are private – homelab code)*
 
 ## Focus Areas
 
